@@ -18,11 +18,11 @@ export default function Contact() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
-                  href="tel:6476250730"
+                  href="tel:9055606900"
                   className="inline-flex items-center justify-center gap-2 rounded-full bg-primary px-8 py-4 text-sm font-bold text-white hover:bg-primary-dark transition-all hover:scale-105 active:scale-95 shadow-lg shadow-primary/20"
                 >
                   <Phone className="w-4 h-4" />
-                  Call (647) 625-0730
+                  Call (905) 560-6900
                 </a>
                 <a
                   href="mailto:info@letsdrivesafe.ca"
@@ -36,7 +36,7 @@ export default function Contact() {
 
             <div className="flex flex-col gap-6">
               {[
-                { icon: Phone, title: "Phone", desc: "Call or text us anytime to book a lesson.", content: "(647) 625-0730", href: "tel:6476250730" },
+                { icon: Phone, title: "Phone", desc: "Call or text us anytime to book a lesson.", content: "(905) 560-6900", href: "tel:9055606900" },
                 { icon: Mail, title: "Email", desc: "Send us an email for general inquiries.", content: "info@letsdrivesafe.ca", href: "mailto:info@letsdrivesafe.ca" },
                 { icon: MapPin, title: "Location", desc: "Serving Hamilton and surrounding areas.", content: "12 Patton Pl, Hamilton, ON L9B 2T9" }
               ].map((item, i) => (
