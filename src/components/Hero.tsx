@@ -45,7 +45,7 @@ export default function Hero() {
               transition={{ duration: 0.5, delay: 0.3 }}
               className="mt-10 flex flex-wrap items-center gap-4"
             >
-              <a href="tel:6476250730" className="rounded-full bg-primary px-8 py-4 text-sm font-bold text-white hover:bg-primary-dark transition-all flex items-center gap-2 hover:scale-105 shadow-xl shadow-primary/20">
+              <a href="tel:9055606900" className="rounded-full bg-primary px-8 py-4 text-sm font-bold text-white hover:bg-primary-dark transition-all flex items-center gap-2 hover:scale-105 shadow-xl shadow-primary/20">
                 Book a Lesson
               </a>
               <a href="mailto:info@letsdrivesafe.ca" className="rounded-full bg-white px-8 py-4 text-sm font-bold text-slate-900 ring-1 ring-inset ring-slate-200 hover:bg-slate-50 transition-all flex items-center gap-2 group">
